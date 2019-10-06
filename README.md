@@ -17,3 +17,5 @@
 ## Contributors
 
 > 1. Shaheen Umar - [Github Profile](https://github.com/iamshaheenumar)
+
+2.  Prashant Bhat- [Github Profile](https://github.com/prashantbhat84)
