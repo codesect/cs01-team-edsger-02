@@ -16,4 +16,5 @@
 
 ## Contributors
 
-> 1. Shaheen Umar - [Github Profile](https://github.com/iamshaheenumar)
+1. Shaheen Umar - [Github Profile](https://github.com/iamshaheenumar)
+2. Zsolt Meszaros - [Github Profile](https://github.com/zsoltime)
