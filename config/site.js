@@ -1,0 +1,15 @@
+module.exports = {
+  author: 'CodeSect',
+  backgroundColor: '#333333',
+  description: 'Gatss - Gatsby shop using SnipCart',
+  display: 'minimal-ui',
+  facebook: 'gatss',
+  icon: 'content/assets/icon.png',
+  name: 'Gatss Shop',
+  shortName: 'Gatss Shop',
+  startUrl: '/',
+  themeColor: '#333333',
+  title: 'Gatss Shop',
+  twitter: 'gatss',
+  url: 'https://gatss.netlify.com',
+};
