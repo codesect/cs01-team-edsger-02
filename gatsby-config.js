@@ -52,14 +52,11 @@ module.exports = {
     'gatsby-plugin-offline',
     'gatsby-plugin-react-helmet',
     {
-      resolve: `gatsby-plugin-prefetch-google-fonts`,
+      resolve: 'gatsby-plugin-web-font-loader',
       options: {
-        fonts: [
-          {
-            family: 'Libre Franklin',
-            variants: ['300', '300i', '400', '400i', '600', '600i'],
-          },
-        ],
+        google: {
+          families: ['Muli:300,300i,400,400i,600,600i'],
+        },
       },
     },
   ],

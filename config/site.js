@@ -4,7 +4,7 @@ module.exports = {
   description: 'Gatss - Gatsby shop using SnipCart',
   display: 'minimal-ui',
   facebook: 'gatss',
-  icon: 'content/assets/icon.png',
+  icon: 'content/assets/favicon.svg',
   name: 'Gatss Shop',
   shortName: 'Gatss Shop',
   startUrl: '/',

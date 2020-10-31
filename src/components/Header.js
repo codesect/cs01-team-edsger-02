@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'gatsby';
 
-import Logo from '../../content/assets/icon.png';
+import Logo from '../../content/assets/logo.svg';
 
 function Header() {
   return (
@@ -19,7 +19,7 @@ function Header() {
           maxWidth: '1200px',
         }}
       >
-        <img src={Logo} alt="" style={{ height: '96px' }} />
+        <img src={Logo} alt="" style={{ height: '60px' }} />
         <nav>
           <ul
             style={{
